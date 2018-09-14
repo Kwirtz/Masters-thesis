@@ -6,7 +6,9 @@ The All file (e.g: IrisALL) should be runned first to obtain 10 (cross-validatio
 To run the "all" all the datasets have been set in the respective folder. Credit goes to the UCI repository, "data.world" and Kuhn and Johnson (Applied predictive modeling) for the datasets.  
 An exhaustive list on where to find the datasets can be found on the bottom of the document.
 
-Once every file has been run you should have multiple csv files in each folders. This allows to run the Statistical test file for each performance measure
+Once every file has been run you should have multiple csv files in each folders. This allows to run the Statistical test file for each performance measure. 
+
+If you are interested in reading the full paper you need to run the .tex file
 
 Adult:
 https://archive.ics.uci.edu/ml/datasets/adult
