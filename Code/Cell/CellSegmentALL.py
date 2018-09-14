@@ -40,6 +40,7 @@ pandas2ri.activate()
 utils = importr("utils")
 
 # Importing the dataset
+
 AppliedPredictiveModeling = importr("AppliedPredictiveModeling",data = True)
 
 r.data("segmentationOriginal")

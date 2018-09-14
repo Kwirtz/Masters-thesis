@@ -32,6 +32,7 @@ from keras.models import Sequential
 from keras.layers import Dense
 from keras.layers import Dropout 
 
+
 dataset = pd.get_dummies(pd.read_csv("AlzheimerDisease.csv",delimiter=","))
 datasetDiagnosis = pd.get_dummies(pd.read_csv("AlzheimerDiseaseD.csv",delimiter=","))
 
