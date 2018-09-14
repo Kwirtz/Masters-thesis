@@ -40,4 +40,4 @@ http://archive.ics.uci.edu/ml/datasets/connectionist+bench+(sonar,+mines+vs.+roc
 Wine:
 https://archive.ics.uci.edu/ml/datasets/wine
 
-Alzheimer and Cell can be found in the package "Applied Predictive Modeling".
+Alzheimer and Cell can be found in the package "Applied Predictive Modeling" in R which is accessed with the rpy2 library in python. 
