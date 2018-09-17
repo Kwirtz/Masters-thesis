@@ -1,9 +1,9 @@
 # Masters-thesis
 This repository contains all the files used in my master's thesis on comparison of machine learning algorithms performance.
 
-Each folder in "Code" contains two python files. The tuning files is used to decide hyperparameters from SVM and ANN and do not require running.
-The All file (e.g: IrisALL) should be runned first to obtain 10 (cross-validation) performance score for each algorithm on the dataset
-To run the "all" files, the datasets have been set in the respective folder. Credit goes to the UCI repository, "data.world" and Kuhn and Johnson (Applied predictive modeling) for the datasets.  
+Each folder in "Code" contains two python files. The tuning files are used to decide hyperparameters from SVM and ANN and do not require running.
+The "All" files (e.g: IrisALL) should be runned first to obtain 10 (cross-validation) performance score for each algorithm on the datasets.
+To run the "All" files, the datasets have been set in the respective folder. Credit goes to the UCI repository, "data.world" and Kuhn and Johnson (Applied predictive modeling) for the datasets.  
 An exhaustive list on where to find them can be found on the bottom of the document.
 
 Once every file has been run you should have multiple csv files in each folders. This allows to run the Statistical test file for each performance measure. 
