@@ -29,5 +29,5 @@ Alzheimer and Cell can be found in the package "Applied Predictive Modeling" in 
 <h2>Results</h2>
 
 <img src="https://raw.githubusercontent.com/Kwirtz/Masters-thesis/master/Results/accuracy.png" width="700" height="400" />
-<img src="https://raw.githubusercontent.com/Kwirtz/Masters-thesis/master/Results/Nemenyi.png" width="800" height="500" />
-<img src="https://raw.githubusercontent.com/Kwirtz/Masters-thesis/master/Results/Conover.png" width="800" height="500" />
+<img src="https://raw.githubusercontent.com/Kwirtz/Masters-thesis/master/Results/Nemenyi.png" width="700" height="400" />
+<img src="https://raw.githubusercontent.com/Kwirtz/Masters-thesis/master/Results/Conover.png" width="700" height="400" />
