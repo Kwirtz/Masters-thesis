@@ -5,7 +5,7 @@ You need to run each file inside the "Code" folder. After that you should have m
 
 If you are interested in reading the full paper you need to run the .tex file
 
-<h2>Requirements<h2>
+<h2>Requirements</h2>
 
 ```
 pip install -r requirements.txt
