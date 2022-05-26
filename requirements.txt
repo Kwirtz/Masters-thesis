@@ -5,4 +5,4 @@ pandas==0.25.1
 scikit-learn==0.21.3
 pillow==6.1.0
 rpy2==3.1.0
-tensorflow==1.15.2
+tensorflow==2.7.2
