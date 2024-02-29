@@ -3,7 +3,9 @@ This repository contains all the files used in my master's thesis on comparison 
 
 You need to run each file inside the "Code" folder. After that you should have multiple csv files in each folders. This allows you to run the Statistical test file for each performance measure. 
 
-If you are interested in reading the full paper you need to run the .tex file
+The full paper is the paper.pdf and if you want to change or update you can use the .tex file
+
+The goal of this paper was to dive in the mathematics behind the machine learning algorithms.
 
 <h2>Requirements</h2>
 
